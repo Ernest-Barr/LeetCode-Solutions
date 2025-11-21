@@ -2,7 +2,6 @@
 #include <string>
 
 int main() {
-
     int m = 0;
     int n = 0;
 
