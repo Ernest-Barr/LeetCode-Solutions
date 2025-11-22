@@ -19,6 +19,7 @@ bin/
 *.class
 *.exe
 .idea/
+*.iml
 
 ### NetBeans ###
 /nbproject/private/
