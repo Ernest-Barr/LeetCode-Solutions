@@ -1,4 +1,3 @@
-import kotlin.math.*
 private fun sqrt(num: Int): Int {
     val epsilon: Double = 0.000001
     var x: Long = num.toLong()
